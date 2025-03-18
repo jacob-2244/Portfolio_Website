@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="yaqoobportfolio.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="yaqoobportfolio.vercel.app/" target="_blank">Dev_with_Yaqoob</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
