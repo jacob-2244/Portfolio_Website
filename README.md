@@ -1,9 +1,13 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
+<<<<<<< HEAD
   <a href="https://yaqoobportfolio.vercel.app/" target="_blank">Dev With Yaqoob</a>
+=======
+ 
+>>>>>>> 3b8926d03a3ec9ff31a41e3ba25ae2b6e1ca2b86
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/portfolio.jpeg" />
 </div>
 
 <br/>
@@ -13,21 +17,21 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/jacob-2244/Portfolio_Website?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/jacob-2244/Portfolio_Website?color=red&logo=github&style=for-the-badge)
 
 </center>
 
-<h3 align="center">
+<!-- <h3 align="center">
     🔹
     <a href="https://github.com/jacob-2244/Portfolio_Website/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/jacob-2244/Portfolio_Website/issues">Request Feature</a>
-</h3>
+</h3> -->
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [jacob-2244](github.com/jacob-2244/Portfolio_Website). Thanks!
 
 ## Built With
 

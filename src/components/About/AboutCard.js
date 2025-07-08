@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Muhammad Yaqoob </span>
             from <span className="purple"> Islamabad, Pakistan</span>
             <br />
-            I am currently Studying Computer Science at COMSATS University Islamabad.
+            I am a Computer Science graduate from COMSATS University Islamabad.
             {/* <br />
             I have completed Integrated MSc (BS) in CS from COMSATS University Islamabad, Attock Campus.
             <br /> */}
